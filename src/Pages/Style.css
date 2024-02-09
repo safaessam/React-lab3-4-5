@@ -1,0 +1,11 @@
+.bg-light {
+    background-color: #f8f9fa !important; /* Light background color */
+}
+
+.card {
+    border: none !important; /* Remove border from cards */
+}
+
+.card-body {
+    color: #343a40; /* Dark text color */
+}
